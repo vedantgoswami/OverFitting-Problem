@@ -16,9 +16,13 @@
   </p>
   
   <b> Now after training this model after 4000 epochs we have the following trend of training and validation dataset</b>
-    <p align="center">
+  <p align="center">
   <img src="https://github.com/vedantgoswami/Overfitting-Problem/blob/main/Overfitting/overfitting.png"> 
   </p>
 
  <p align="center"> The above Plot clearly shows that the model had a very low loss on training dataset but for validation dataset the loss increases after 500 epochs.This proofs that model was overfitting.</p>
-  
+ 
+ ### After using the L2 Regularization there is linear trend between the Training and Validation dataset.
+  <p align="center">
+  <img src="https://github.com/vedantgoswami/Overfitting-Problem/blob/main/Overfitting/regularization.png"> 
+  </p>
