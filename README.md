@@ -4,7 +4,7 @@
  In this repository i will show how the overfitting problem occur in neural network and how model perform excellent on training dataset but worst on validation dataset.
  
  <b>Here is the dataset</b><br>
- This is the sklearn moon dataset with 0.26 noise 
+ This is the sklearn moon dataset with 0.26% noise 
  
  <p align="center">
   <img src="https://github.com/vedantgoswami/Overfitting-Problem/blob/main/Overfitting/dataset.png"> 
